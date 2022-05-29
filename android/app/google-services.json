@@ -1,0 +1,70 @@
+{
+  "project_info": {
+    "project_number": "356482546023",
+    "project_id": "flutterchatty-database",
+    "storage_bucket": "flutterchatty-database.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356482546023:android:19630c7e0e7dbefec4d7c2",
+        "android_client_info": {
+          "package_name": "com.coskuncinar.fchatty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "356482546023-21874fen44one5vn2648s1lntfurr447.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.coskuncinar.fchatty",
+            "certificate_hash": "e6669125a0676c3ac40ed58f0b286e1b66755eb3"
+          }
+        },
+        {
+          "client_id": "356482546023-8cbvvg0i1ssep1atglirt1h3bas7eskq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.coskuncinar.fchatty",
+            "certificate_hash": "db1fea5a4158f59f0af326cb04e9811875526130"
+          }
+        },
+        {
+          "client_id": "356482546023-dkufrhlj2n1sok42nmfv4ehkud620tqk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.coskuncinar.fchatty",
+            "certificate_hash": "c2690252ef8b171d7a5a83fc33179180c5ae22cd"
+          }
+        },
+        {
+          "client_id": "356482546023-oku4bdfhapjtafibdv8kou8ldhrmjg01.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIdpkRvEWA1lU4yJocxyKK8xe7BdJ01Jc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "356482546023-oku4bdfhapjtafibdv8kou8ldhrmjg01.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "356482546023-756ko1e0oq6btijsuk0rda74ac3o37oo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.coskuncinar.fchatty"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
